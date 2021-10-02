@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="841850d1-138e-465d-bdf8-279d801de676" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php_login.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="841850d1-138e-465d-bdf8-279d801de676" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +71,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632827173457</updated>
-      <workItem from="1632827174517" duration="870000" />
+      <workItem from="1632827174517" duration="1521000" />
+      <workItem from="1633188328974" duration="10914000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1632828284552</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632828284552</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1632828383392</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632828383392</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,11 +104,37 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1637" y="558" key="NewPhpFileDialog" timestamp="1632827378396">
+    <state x="1435" y="467" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1633199835575">
       <screen x="0" y="25" width="2560" height="1352" />
     </state>
-    <state x="1637" y="558" key="NewPhpFileDialog/0.25.2560.1352/2560.25.1920.1175@0.25.2560.1352" timestamp="1632827378396" />
+    <state x="1435" y="467" key="#com.intellij.fileTypes.FileTypeChooser/0.25.2560.1352/2560.25.1920.1175@0.25.2560.1352" timestamp="1633199835575" />
+    <state x="1079" y="295" key="NewPhpClassDialog" timestamp="1633191329395">
+      <screen x="0" y="25" width="1920" height="1112" />
+    </state>
+    <state x="1079" y="295" key="NewPhpClassDialog/1920.317.1194.809/0.25.1920.1112@0.25.1920.1112" timestamp="1633191329395" />
+    <state x="1637" y="558" key="NewPhpFileDialog" timestamp="1633193248301">
+      <screen x="0" y="25" width="2560" height="1352" />
+    </state>
+    <state x="1637" y="558" key="NewPhpFileDialog/0.25.2560.1352/2560.25.1920.1175@0.25.2560.1352" timestamp="1633193248301" />
+    <state x="1228" y="463" key="NewPhpFileDialog/1920.317.1194.809/0.25.1920.1112@0.25.1920.1112" timestamp="1633191338927" />
+    <state x="1381" y="368" key="Vcs.Push.Dialog.v2" timestamp="1632828389316">
+      <screen x="0" y="25" width="2560" height="1352" />
+    </state>
+    <state x="1381" y="368" key="Vcs.Push.Dialog.v2/0.25.2560.1352/2560.25.1920.1175@0.25.2560.1352" timestamp="1632828389316" />
+    <state x="105" y="375" width="1164" height="1093" key="dock-window-1" timestamp="1633198938111">
+      <screen x="0" y="25" width="2560" height="1352" />
+    </state>
+    <state x="105" y="375" width="1164" height="1093" key="dock-window-1/0.25.2560.1352/2560.25.1920.1175@0.25.2560.1352" timestamp="1633198938111" />
+    <state x="1360" y="313" key="run.anything.popup" timestamp="1633200187054">
+      <screen x="0" y="25" width="2560" height="1352" />
+    </state>
+    <state x="1360" y="313" key="run.anything.popup/0.25.2560.1352/2560.25.1920.1175@0.25.2560.1352" timestamp="1633200187054" />
   </component>
 </project>
